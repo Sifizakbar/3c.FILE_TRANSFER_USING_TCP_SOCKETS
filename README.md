@@ -63,7 +63,8 @@ Hello this is a file transfer using Python sockets.
 client:
 <img width="1072" height="353" alt="Screenshot (476)" src="https://github.com/user-attachments/assets/51a8846c-38ee-4e66-b954-c366a2d90c1c" />
 server:
-<img width="1072" height="353" alt="Screenshot (476)" src="https://github.com/user-attachments/assets/41ddc0e6-894e-4e34-b318-51dc1d0a0335" />
+<img width="1098" height="328" alt="Screenshot (478)" src="https://github.com/user-attachments/assets/280d27f1-93fc-45c4-b259-04affaaf9802" />
+
 
 
 ## RESULT
